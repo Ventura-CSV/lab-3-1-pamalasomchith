@@ -1,7 +1,4 @@
 def main():
-    ##################################################
-    # Comlete your code here
-    ##################################################
     number = int(input('Enter a number: '))
     if number < 50:
         range = 1
@@ -10,13 +7,6 @@ def main():
             range = 2
         else:
             range = 3
-            
-    
-
-    """
-    Make your code here
-    """
-
     print(f'Range is {range}')
     ########################################
     # Do not delete the return statement
