@@ -6,7 +6,7 @@ def main():
     if number < 50:
         range = 1
     else:
-        if number >= and <100:
+        if (50 <= number < 100):
             range = 2
         else:
             range = 3
